@@ -48,7 +48,6 @@
   <img src="https://streak-stats.demolab.com/?user=JoaquinSTK&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinSTK&theme=react-dark&hide_border=false&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2022-12/12/22/asset/1854a3e3d2bb/anigif_sub-buzz-3261-1670885312-14.gif" width="350px" alt="GIF animado" />
 </p>
