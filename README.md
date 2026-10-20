@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaquinSTK&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitas" />
 </p>
-
 <h1 align="center">👋 Welcome to @JoaquinSTK Page 👋</h1>
 
 <p align="center">
@@ -18,6 +17,11 @@
 `Any offers to my email` 💼
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" src="https://img.buzzfeed.com/buzzfeed-static/static/2022-12/12/22/asset/1854a3e3d2bb/anigif_sub-buzz-3261-1670885312-14.gif" width="260px" alt="GIF animado" />
+
+### Hola, soy Joaquín 👋
+- 🔭 Actualmente estudiando...
+- 🌱 Aprendiendo Python, Java y C++...
 
 - 📚 | Systems & Computer Engineering Student
 - 💻 | Working with **C++, C#, Python, SQL & Web Development**
