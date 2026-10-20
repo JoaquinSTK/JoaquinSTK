@@ -47,3 +47,8 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=JoaquinSTK&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaquinSTK&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
