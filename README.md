@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2022-12/12/22/asset/1854a3e3d2bb/anigif_sub-buzz-3261-1670885312-14.gif" width="350px" alt="GIF animado" />
+  <img src="https://www.cultture.com/pics/2023/06/10-mejores-paneles-manga-vagabundo-5.webp" />
 </p>
