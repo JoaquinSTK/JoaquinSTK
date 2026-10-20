@@ -41,7 +41,3 @@
   <img src="https://streak-stats.demolab.com/?user=JoaquinSTK&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://www.cultture.com/pics/2023/06/10-mejores-paneles-manga-vagabundo-5.webp" />
-</p>
-
