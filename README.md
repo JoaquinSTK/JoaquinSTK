@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JoaquinSTK&fontSize=60&animation=fadeIn" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaquinSTK&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitas" />
-</p>
 <h1 align="center">👋 Welcome to @JoaquinSTK Page 👋</h1>
 
 <p align="center">
@@ -49,4 +43,7 @@
 
 <p align="center">
   <img src="https://www.cultture.com/pics/2023/06/10-mejores-paneles-manga-vagabundo-5.webp" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaquinSTK&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitas" />
 </p>
