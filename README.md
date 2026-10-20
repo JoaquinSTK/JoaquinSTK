@@ -50,5 +50,5 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaquinSTK&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinSTK&theme=react-dark&hide_border=false&area=true" width="100%" alt="Activity Graph" />
 </p>
