@@ -19,12 +19,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://img.buzzfeed.com/buzzfeed-static/static/2022-12/12/22/asset/1854a3e3d2bb/anigif_sub-buzz-3261-1670885312-14.gif" width="260px" alt="GIF animado" />
 
-### Hola, soy Joaquín 👋
-- 🔭 Actualmente estudiando...
-- 🌱 Aprendiendo Python, Java y C++...
-
+### I'm Joaquín 👋
 - 📚 | Systems & Computer Engineering Student
-- 💻 | Working with **C++, C#, Python, SQL & Web Development**
+- 💻 | Learning and Working with **C++, C#, Python, SQL & Web Development**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
