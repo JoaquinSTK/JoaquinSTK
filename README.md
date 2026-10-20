@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JoaquinSTK&fontSize=60&animation=fadeIn" width="100%"/>
+</p>
+
+
 <h1 align="center">👋 Welcome to @JoaquinSTK Page 👋</h1>
 
 <p align="center">
@@ -36,3 +41,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=JoaquinSTK&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
