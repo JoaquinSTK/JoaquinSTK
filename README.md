@@ -28,7 +28,7 @@
 <h3 align="center">🧘‍♂️ My Github Statistics 🧘‍♂️</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinSTK&layout=default&theme=dark&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinSTK&theme=dark&hide_border=false" alt="Most Used Languages" />
 </p>
 
 <p align="left">
